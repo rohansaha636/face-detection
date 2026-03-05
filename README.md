@@ -1,6 +1,6 @@
 # Face Detection using OpenCV
 
-## 📌 Project Overview
+##📌 Project Overview
 
 This project implements real-time face detection using OpenCV and Haar Cascade classifiers.
 The system captures video from a webcam and detects faces frame-by-frame.
